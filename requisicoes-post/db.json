@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Olá, mundo!",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
+      "author": "Isaac"
+    },
+    {
+      "id": 2,
+      "title": "Requisições POST com Javascript",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
+      "author": "Isaac"
+    },
+    {
+      "title": "Test",
+      "author": "Emanuel",
+      "content": "Dark is a great tv series",
+      "id": 3
+    },
+    {
+      "title": "Teste 2",
+      "author": "Emanuel",
+      "content": "Testando requisicao POST",
+      "id": 4
+    }
+  ]
+}
